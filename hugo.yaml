@@ -1,0 +1,15 @@
+baseURL: 'https://example.org/'
+languageCode: 'it-it'
+title: 'My New Hugo Site'
+theme: 'hextra'
+defaultContentLanguage: 'it'
+
+menu:
+  main:
+    - name: Giochi
+      pageRef: /giochi
+    - name: Info
+      pageRef: /info
+    - name: Search
+      params:
+        type: search
