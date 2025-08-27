@@ -1,6 +1,6 @@
-baseURL: 'https://example.org/'
+baseURL: 'https://timendum.github.io/carte/'
 languageCode: 'it-it'
-title: 'My New Hugo Site'
+title: 'Cartarium'
 theme: 'hextra'
 defaultContentLanguage: 'it'
 
@@ -8,8 +8,10 @@ menu:
   main:
     - name: Giochi
       pageRef: /giochi
-    - name: Info
+      weight: 1
+    - name: Compendio
       pageRef: /info
+      weight: 2
     - name: Search
       params:
         type: search

@@ -1,23 +1,24 @@
 ---
 date: 2025-08-01
-draft: false
-title: Briscola
-description: Un classico gioco di prese con briscola fissa, in cui i giocatori cercano di conquistare le carte di maggior valore per totalizzare più punti dell’avversario.
+draft: true
+title: Briscola a non prendere
+description: Una variante della Briscola in cui vince chi fa meno punti, cioè prende di meno.
 tags:
-  - giocatori-2
   - giocatori-3
   - giocatori-4
+  - giocatori-5
   - giocatori-6
   - mazzo-40
   - durata-30
   - meccanica-briscola
   - meccanica-presa
+  - meccanica-non-prendere
 ---
 
 ## Panoramica
 
 - **Categoria** 🏷️: Presa
-- **Numero giocatori** 👥: 2, 3, 4 o 6 (più comune in 2 o 4 a coppie)  
+- **Numero giocatori** 👥: 3-6
 - **Mazzo richiesto** 🃏: 40 carte (solitamente [italiane](/info/dizionario/#italiane))
 - **Durata media** ⏱️: 20–30 minuti  
 - **Età minima consigliata** 🎂: 7+ anni  
@@ -28,14 +29,11 @@ tags:
 
 ## Obiettivo del gioco
 
-Vincere più smazzate possibili catturando almeno più punti, giocando la carta più alta, con un seme di briscola che prevale sugli altri.
+Catturare **meno** punti possibili, in una serie di smazzate.
 
 ## Preparazione
-1. Se si gioca a coppie, i giocatori delle squadre devono essere alternati.  
-   Ad esempio, in una partita con due coppie (quattro giocatori), una squadra sarà nei posti dispari (primo e terzo giocatore) e l'altra nei posti pari (secondo e quarto giocatore).
 1. Si usa un mazzo da 40 carte, solitamente [italiane](/info/dizionario/#italiane), cioè con le figure e senza 8–9–10.
 1. Si sceglie un mazziere.
-1. Per 3 giocatori, rimuovere una carta 2 qualsiasi (rimarranno 39 carte); per 6 giocatori, rimuovere tutti e quattro i 2 (rimarranno 36 carte).
 1. Il mazziere distribuisce 3 carte coperte a ciascun giocatore, che le prende in mano guardandole.
 1. Il mazziere estrae una carta scoperta e la pone sul tavolo, coprendola parzialmente con le rimanenti carte (il tallone); questa carta determina il seme di briscola e sarà l'ultima ad essere pescata.
 1. Il primo di turno è abitualmente il giocatore alla destra del mazziere.
