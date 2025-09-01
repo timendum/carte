@@ -85,6 +85,6 @@ Se una squadra (o un giocatore) cattura tutti i 120 punti, vince la partita con 
 Esistono numerose varianti della Briscola.
 
 - **Risposta al seme**: in questa versione è obbligatorio giocare una carta dello stesso seme della prima giocata, se disponibile.
-- {{<variante page="/giochi/briscola-chiamata">}}
-- {{<variante page="/giochi/briscola-dichiarata">}}
-- {{<variante page="/giochi/briscola-non-prendere">}}
+- {{<variante page="/giochi/briscola/chiamata">}}
+- {{<variante page="/giochi/briscola/dichiarata">}}
+- {{<variante page="/giochi/briscola/non-prendere">}}

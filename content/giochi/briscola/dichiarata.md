@@ -1,6 +1,6 @@
 ---
 date: 2025-08-01
-draft: false
+draft: true
 title: Briscola dichiarata
 description: Una variante della Briscola in cui il numero di carte cresce progressivamente e ad ogni turno i giocatori devono prevedere quante prese faranno, guadagnando o perdendo punti in base all’accuratezza della dichiarazione.
 tags:

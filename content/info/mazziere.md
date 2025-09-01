@@ -7,17 +7,17 @@ title: Come scegliere il mazziere
 In tutti i giochi di carte, la figura del mazziere è essenziale, non si può giocare senza, anche in ambito amichevole è raramente significativa, perché influenza poco lo svolgimento o il punteggio.
 
 Ognuno è ovviamente libero di scegliere il primo mazziere come preferisce, proponiamo qui alcune possibilità.
-Le elenchiamo qui nell'ordine in cui ci sentiamo di consigliarle.
+Le elenchiamo qui nell'ordine in cui ci sentiamo di consigliarle, per semplicità e risultato.
 
 ## Il più esperto
 
-Quando un partecipante propone un gioco,
+Quando un partecipante propone un gioco nuovo o poco conosciuto,
 solitamente prende in carico anche la distribuzione delle carte,
 poiché dipende dal  gioco e aiuta ad impostare il ritmo.
 
 ## Con applicazioni
 
-Ormai siamo nel ventunesimo secolo, possiamo usare anche le app, ad esempio con [Chooser](https://play.google.com/store/apps/details?id=com.uravgcode.chooserapp) (gratuita, per Android) basta che ognuno appoggi un dito sullo schermo per identificare il mazziere oppure [Choowy](https://apps.apple.com/us/app/id6670456281) (gratuita, iOS).
+Ormai siamo nel ventunesimo secolo, possiamo usare anche le app, ad esempio con [Chooser](https://play.google.com/store/apps/details?id=com.uravgcode.chooserapp) (gratuita, per Android) in cui basta che ognuno appoggi un dito sullo schermo per identificare il mazziere oppure [Choowy](https://apps.apple.com/us/app/id6670456281) (gratuita, iOS), simile.
 
 ## Carta bassa
 

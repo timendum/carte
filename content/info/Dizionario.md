@@ -1,7 +1,8 @@
 ---
 date: 2025-08-01
 draft: false
-title: Termini
+title: Termini delle carte
+weight: 1
 ---
 ## Antiorario
 Senso di gioco, il turno successivo va al giocatore alla **sinistra** dell'ultimo e il primo a giocare e a ricevere le carte è a destra del mazziere.

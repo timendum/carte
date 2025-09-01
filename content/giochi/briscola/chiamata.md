@@ -1,6 +1,6 @@
 ---
 date: 2025-08-01
-draft: false
+draft: true
 title: Briscola chiamata
 description: Una variante della Briscola a cinque giocatori, in cui si dichiara una briscola e un compagno segreto, dove conta intuire alleanze e fare il maggior numero di punti.
 tags:

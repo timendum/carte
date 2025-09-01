@@ -1,6 +1,7 @@
 ---
 date: 2025-08-26T13:35:17+02:00
-title: Ultimi giochi aggiunti
+title: Giochi
 cascade:
-  type: blog
+  params:
+    breadcrumbs: true
 ---
