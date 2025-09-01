@@ -17,7 +17,7 @@ tags:
 ## Panoramica
 
 - **Categoria** 🏷️: Presa
-- **Numero giocatori** 👥: 2, 3, 4 o 6 (più comune in 2 o 4 a coppie)  
+- **Numero giocatori** 👥: 2, 3 (raro), 4 (a coppie) o 6 (a coppie)  
 - **Mazzo richiesto** 🃏: 40 carte (solitamente [italiane](/info/dizionario/#italiane))
 - **Durata media** ⏱️: 20–30 minuti  
 - **Età minima consigliata** 🎂: 7+ anni  
@@ -26,44 +26,40 @@ tags:
 - **Fortuna** 🍀: ★★☆☆☆ (bassa)  
 - **Senso di gioco abituale** ↪️: [antiorario](/info/dizionario#antiorario)
 
-## Obiettivo del gioco
+## In breve
 
-Vincere più smazzate possibili catturando almeno più punti, giocando la carta più alta, con un seme di briscola che prevale sugli altri.
+- L’obiettivo è vincere il maggior numero di smazzate accumulando almeno 61 punti su 120 disponibili, giocando carte più alte e sfruttando il seme di briscola, che prevale sugli altri.
+- Il mazziere distribuisce 3 carte per giocatore, poi scopre una carta che determina il seme di briscola.
+- Durante ogni turno, i giocatori giocano una carta a testa seguendo il seme iniziale se possibile, e la mano viene vinta da chi gioca la briscola più alta o, in assenza di briscole, la carta più alta del seme iniziale.
+- Nelle mani successive, il vincitore pesca per primo e gioca per primo, continuando fino all’esaurimento del mazzo.
+- Il punteggio si calcola sommando i valori delle carte prese (Asso 11, Tre 10, Re 4, Cavallo 3, Fante 2).
 
 ## Preparazione
-1. Se si gioca a coppie, i giocatori delle squadre devono essere alternati.  
-   Ad esempio, in una partita con due coppie (quattro giocatori), una squadra sarà nei posti dispari (primo e terzo giocatore) e l'altra nei posti pari (secondo e quarto giocatore).
-1. Si usa un mazzo da 40 carte, solitamente [italiane](/info/dizionario/#italiane), cioè con le figure e senza 8–9–10.
-1. Si sceglie un mazziere.
+1. {{< snippet "preparazione" "se-coppie" >}}
+1. {{< snippet "preparazione" "italiane" >}}
+1. {{< snippet "preparazione" "mazziere" >}}
 1. Per 3 giocatori, rimuovere una carta 2 qualsiasi (rimarranno 39 carte); per 6 giocatori, rimuovere tutti e quattro i 2 (rimarranno 36 carte).
 1. Il mazziere distribuisce 3 carte coperte a ciascun giocatore, che le prende in mano guardandole.
-1. Il mazziere estrae una carta scoperta e la pone sul tavolo, coprendola parzialmente con le rimanenti carte (il tallone); questa carta determina il seme di briscola e sarà l'ultima ad essere pescata.
-1. Il primo di turno è abitualmente il giocatore alla destra del mazziere.
+1. {{< snippet "briscola" "tallone" >}}
+1. {{< snippet "preparazione" "antiorario" >}}
 
 ### Turno di gioco
 
 - Il giocatore di turno sceglie una delle proprie carte e la gioca.
 - Il seme della carta giocata dal primo giocatore viene chiamato "seme di mano".
-- Ogni giocatore risponde con la carta che ritiene più opportuna.  
+- Ogni partecipante, in ordine, risponde giocando la carta che ritiene più opportuna.  
   - In alcune varianti, è obbligatorio "rispondere a seme", cioè i giocatori devono scegliere una carta del "seme di mano" se possibile. Se non si possiede quel seme, si può giocare qualsiasi carta.
 - La mano è vinta dal giocatore che ha giocato la briscola più alta oppure, se non è stata giocata alcuna briscola, al giocatore che ha giocato carta più alta del seme della prima giocata nel turno.
-- Le carte prese vengono raccolte dal vincitore in un mazzetto unico per squadra (o per giocatore, se si gioca individualmente), a faccia in giù di fronte a sè.
+- Le carte prese vengono raccolte dal vincitore in un mazzetto unico per squadra (o per giocatore, se si gioca individualmente), a faccia in giù di fronte a sé.
 
 ### Valore delle carte
 
-| Carta         | Punti | Categoria |
-|---------------|-------|-----------|
-| Asso          | 11    | Carico    |
-| 3             | 10    | Carico    |
-| Re (K, 10)    | 4     | Figura    |
-| Cavallo (Q, 9)| 3     | Figura    |
-| Fante (J, 8)  | 2     | Figura    |
-| 7–6–5–4–2     | 0     | Liscio    |
+{{< snippet "briscola" "punti" >}}
 
-> Asso, Re, Cavallo e Fante insieme totalizzano 20 punti, utile da ricordare a durante il calcolo del punteggio.
+> Asso, Re, Cavallo e Fante insieme totalizzano 20 punti, utile da ricordare durante il calcolo del punteggio.
 
 ### Mani successive
-- Il vincitore del turno pesca per primo dal tallone, seguito dagli altri in senso antiorario.
+- Il vincitore del turno pesca una carta per primo dal tallone, seguito dagli altri in senso antiorario.
 - Lo stesso giocatore sarà il primo a giocare nella mano successiva, decidendo così il nuovo seme "di mano".
 - Si continua così finché il mazzo è esaurito e tutti hanno giocato le proprie carte.
 
@@ -74,9 +70,11 @@ Nella smazzata successiva, il mazziere sarà il primo giocatore di turno della s
 Alla fine della smazzata si contano i punti secondo la tabella sopra.  
 Vince la smazzata chi raggiunge almeno **61 punti**, cioè la metà più uno dei 120 disponibili.
 
-È possibile che una smazzata finisca in parità, in questo caso viene ignorata.
+Se si gioca in 3, la smazzata viene assegnato al giocatore con più punti,
+in caso di parità non viene assegnata.
 
-Se una squadra (o un giocatore) cattura tutti i 120 punti, vince la partita con un "cappotto".
+Se una squadra (o un giocatore) cattura tutti i 120 punti, vince la partita con un "cappotto";
+è un caso molto raro e dipendente dalla distribuzione delle carte.
 
 ## Condizioni di vittoria
 - La partita si gioca solitamente fino a **5 o 7 smazzate** (deciso all’inizio).
@@ -87,3 +85,6 @@ Se una squadra (o un giocatore) cattura tutti i 120 punti, vince la partita con 
 Esistono numerose varianti della Briscola.
 
 - **Risposta al seme**: in questa versione è obbligatorio giocare una carta dello stesso seme della prima giocata, se disponibile.
+- {{<variante page="/giochi/briscola-chiamata">}}
+- {{<variante page="/giochi/briscola-dichiarata">}}
+- {{<variante page="/giochi/briscola-non-prendere">}}

@@ -1,0 +1,14 @@
+punti: |
+  | Carta         | Punti | Categoria |
+  |---------------|-------|-----------|
+  | Asso          | 11    | Carico    |
+  | 3             | 10    | Carico    |
+  | Re (K, 10)    | 4     | Figura    |
+  | Cavallo (Q, 9)| 3     | Figura    |
+  | Fante (J, 8)  | 2     | Figura    |
+  | 7–6–5–4–2     | 0     | Liscio    |
+
+tallone: >
+  Il mazziere estrae una carta scoperta e la pone sul tavolo,
+  coprendola parzialmente con le rimanenti carte (il tallone).  
+    Questa carta determina il seme di briscola e sarà l'ultima ad essere pescata.

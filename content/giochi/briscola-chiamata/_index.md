@@ -29,9 +29,9 @@ Chiamato anche "_La briscola in cinque_",  "_Briscola a chiamare_" o semplicemen
 Identificare i propri compagni per quella smazzata e vincerla con le regole della [Briscola](/giochi/briscola), accumulando così più punti.
 
 ## Preparazione
-1. Si usa un mazzo da 40 carte, solitamente [italiane](/info/dizionario/#italiane), cioè con le figure e senza 8-9-10.
-1. Si sceglie un mazziere.
-1. Il mazziere distribuisce una carta alla volta ai giocatori, fino a esaurire il mazzo.  
+1. {{< snippet "preparazione" "italiane" >}}
+1. {{< snippet "preparazione" "mazziere" >}}
+1. {{< snippet "preparazione" "tutte-carte" >}}  
     Ogni giocatore avrà quindi 8 carte in mano.
 1. Il primo di turno è il giocatore a destra del mazziere.
 
@@ -66,15 +66,7 @@ Sarà quindi il "chiamante"" a dover, da solo, ad aggiudicarsi abbastanza punti 
 
 L'ordine decrescente delle carte e i relativi punti a fine smazzata sono gli stessi della Briscola:
 
-| Carta          | Punti | Categoria |
-| -------------- | ----- | --------- |
-| Asso           | 11    | Carico    |
-| 3              | 10    | Carico    |
-| Re (K, 10)     | 4     | Figura    |
-| Cavallo (Q, 9) | 3     | Figura    |
-| Fante (J, 8)   | 2     | Figura    |
-| 7-6-5-4-2      | 0     | Lisci     |
-
+{{< snippet "briscola" "punti" >}}
 
 ### Turno di gioco
 Si parte in ogni caso dal giocatore a destra del mazziere, indipendentemente dal "chiamante".  

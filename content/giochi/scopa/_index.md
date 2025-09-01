@@ -120,6 +120,6 @@ Notare che per le carte tra 2 e 5, il punteggio assegnato è di 10 più il valor
 - **Senza Nàpola**: non tutti includono la Nàpola nel punteggio. 
 - **Scopa d'assi** o **Asso piglia tutto**: quando si gioca un Asso, si raccolgono tutte le carte dal tavolo, senza però fare il punto di Scopa.
 - **Scopone**: si gioca solitamente in 4 a coppie, distribuendo **10 carte a testa** e senza carte iniziali sul tavolo, esaurendo quindi il mazzo nella distribuzione iniziale ai giocatori.
-- **[Scopa a non prendere](/giochi/scopa-non-prendere/)**: qui l'obbiettivo è fare meno punti possibili e quindi meno prese possibili.
+- {{<variante page="/giochi/scopa-non-prendere">}}
 
 È chiaramente possibile combinare alcune varianti, così da escludere o includere la Nàpola, usare gli Assi per prendere tutte le carte e giocare con tutte le carte in mano.

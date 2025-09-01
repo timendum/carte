@@ -6,6 +6,12 @@ title: Termini
 ## Antiorario
 Senso di gioco, il turno successivo va al giocatore alla **sinistra** dell'ultimo e il primo a giocare e a ricevere le carte è a destra del mazziere.
 
+## Carico
+Una carta con un punteggio elevato.
+
+**Ad esempio** nella [Briscola](/giochi/briscola) (e varianti): gli Assi e i 3.
+O nel [Tresette](/giochi/briscola) (e varianti): Asso, 2 e 3.
+
 ## Cattura
 Tipologia di gioco di carte, in cui ogni giocatore, a turno, abbina una carta della propria mano con una (o più) di quelle scoperte sul tavolo e poi le prende o appunto le cattura. Se la carta che il giocatore gioca non corrisponde a nessuna delle carte esistenti, rimane sul tavolo.
 
@@ -53,6 +59,12 @@ Il periodo di gioco compreso tra la mischiata del mazzo e la loro giocata, che t
 
 **Ad esempio** nel **Burraco** o a **Scala 40**: dalla mischiata e prima distribuzione, fino alla chiusura.
 O nella [Scopa](/giochi/scopa) o nella [Briscola](/giochi/briscola): dalla mischiata e prima distribuzione, fino a che l'ultima carta del mazzo non viene giocata.
+
+## Scartina
+Una carta di nullo o scarso valore.
+
+**Ad esempio** nella [Briscola](/giochi/briscola) (e varianti): il 2 e le carte tra il 4 e il 7 compresi.
+O nel [Tresette](/giochi/briscola) (e varianti): le carte tra il 4 e il 7 compresi.
 
 ## Tallone
 Le carte rimanenti dopo la distribuzione, da cui i giocatori possono pescare, solitamente posto al centro del tavolo e composto da carte coperte (a faccia in giù).

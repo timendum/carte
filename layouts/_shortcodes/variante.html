@@ -1,0 +1,11 @@
+{{- $page := site.GetPage (.Get "page") -}}
+
+{{ if $page }}
+    {{- with $page -}}
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>: {{ .Description }}
+    {{- end -}}
+{{ else }}
+  <div style="color:red;">
+    ⚠️ Variante error: file "<code>{{ (.Get "page") }}</code>" not found.
+  </div>
+{{ end }}

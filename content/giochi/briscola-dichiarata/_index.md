@@ -2,7 +2,7 @@
 date: 2025-08-01
 draft: false
 title: Briscola dichiarata
-description: Una variante della Briscola in cui le il numero di carte cresce progressivamente e ad ogni turno i giocatori devono prevedere quante prese faranno, guadagnando o perdendo punti in base all’accuratezza della dichiarazione.
+description: Una variante della Briscola in cui il numero di carte cresce progressivamente e ad ogni turno i giocatori devono prevedere quante prese faranno, guadagnando o perdendo punti in base all’accuratezza della dichiarazione.
 tags:
   - giocatori-2
   - giocatori-3
@@ -63,14 +63,7 @@ Questa parte del gioco è identica alla Briscola normale.
 L'ordine decrescente delle carte e i relativi punti a fine smazzata sono gli stessi della Briscola:
 
 
-| Carta         | Punti | Categoria |
-|---------------|-------|-----------|
-| Asso          | 11    | Carico    |
-| 3             | 10    | Carico    |
-| Re (K, 10)    | 4     | Figura    |
-| Cavallo (Q, 9)| 3     | Figura    |
-| Fante (J, 8)  | 2     | Figura    |
-| 7–6–5–4–2     | 0     | Liscio    |
+{{< snippet "briscola" "punti" >}}
 
 ### Mani successive
 - Il vincitore del turno pesca sarà il primo a giocare nella mano successiva, decidendo così il nuovo seme "di mano".
