@@ -37,7 +37,7 @@ tags:
 1. {{< snippet "preparazione" "se-coppie" >}}
 1. {{< snippet "preparazione" "italiane" >}}
 1. {{< snippet "preparazione" "mazziere" >}}
-1. Il mazziere distribuisce 3 carte a ciascun giocatore, che le prende in mano guardandole.
+1. Il mazziere distribuisce 3 carte a ciascun giocatore, che le prende in mano e le guarda.
 1. Il mazziere pone 4 carte scoperte al centro sul tavolo.
 1. {{< snippet "preparazione" "tallone" >}}
 1. {{< snippet "preparazione" "antiorario" >}}

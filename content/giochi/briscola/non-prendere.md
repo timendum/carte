@@ -29,14 +29,11 @@ La Briscola a non prendere è una variante della Briscola per cinque giocatori i
 - **Fortuna** 🍀: ★★★☆☆ (media)  
 - **Senso di gioco abituale** ↪️: [antiorario](/info/dizionario#antiorario)
 
-## Descrizione in breve
-
-
 ## Preparazione
 1. Si usa un mazzo da 40 carte, solitamente [italiane](/info/dizionario/#italiane), cioè con le figure e senza 8–9–10.
 1. Si sceglie un mazziere.
 1. Se i giocatori sono 6, è necessario rimuovere 4 carte basse, solitamente i 2 o i 4.
-1. Il mazziere distribuisce 3 carte coperte a ciascun giocatore, che le prende in mano guardandole.
+1. Il mazziere distribuisce 3 carte coperte a ciascun giocatore, che le prende in mano e le guarda.
 1. Il mazziere estrae una carta scoperta e la pone sul tavolo, coprendola parzialmente con le rimanenti carte (il tallone); questa carta determina il seme di briscola e sarà l'ultima ad essere pescata.
 1. Il primo di turno è abitualmente il giocatore alla destra del mazziere.
 
@@ -58,7 +55,7 @@ L'ordine decrescente delle carte e i relativi punti a fine smazzata sono gli ste
 {{< snippet "briscola" "punti" >}}
 
 ### Mani successive
-- Il vincitore del turno pesca per primo dal tallone, seguito dagli altri in senso antiorario.
+- Il vincitore del turno pesca una carta per primo dal tallone, seguito dagli altri in senso antiorario.
 - Lo stesso giocatore sarà il primo a giocare nella mano successiva, decidendo così il nuovo seme "di mano".
 - Si continua così finché il mazzo è esaurito e tutti hanno giocato le proprie carte.
 
@@ -80,3 +77,5 @@ Se una squadra (o un giocatore) cattura tutti i 120 punti, vince la partita con 
 Esistono numerose varianti della Briscola.
 
 - **Risposta al seme**: in questa versione è obbligatorio giocare una carta dello stesso seme della prima giocata, se disponibile.
+- **A punti**: leggermente più complesso, è possibile contare i punti effettivamente fatti dai giocatori, piuttosto che assegnare un punto per smazzata;  
+   in questo caso terminare la partita ai 400 o 500 punti.

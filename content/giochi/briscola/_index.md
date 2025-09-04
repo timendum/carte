@@ -30,8 +30,8 @@ tags:
 
 - L’obiettivo è vincere il maggior numero di smazzate accumulando almeno 61 punti su 120 disponibili, giocando carte più alte e sfruttando il seme di briscola, che prevale sugli altri.
 - Il mazziere distribuisce 3 carte per giocatore, poi scopre una carta che determina il seme di briscola.
-- Durante ogni turno, i giocatori giocano una carta a testa seguendo il seme iniziale se possibile, e la mano viene vinta da chi gioca la briscola più alta o, in assenza di briscole, la carta più alta del seme iniziale.
-- Nelle mani successive, il vincitore pesca per primo e gioca per primo, continuando fino all’esaurimento del mazzo.
+- Il primo giocatore gioca una carta che determina il “seme di mano”; gli altri rispondono seguendo il seme iniziale se possibile. Vince la mano chi gioca la briscola più alta o, in assenza, la carta più alta del seme di mano.
+- Nelle mani successive, i giocatori, partendo dal vincitore della mano precedente, pescano una carta dal tallone; chi ha vinto la mano precedente inizia la successiva.
 - Il punteggio si calcola sommando i valori delle carte prese (Asso 11, Tre 10, Re 4, Cavallo 3, Fante 2).
 
 ## Preparazione
@@ -39,7 +39,7 @@ tags:
 1. {{< snippet "preparazione" "italiane" >}}
 1. {{< snippet "preparazione" "mazziere" >}}
 1. Per 3 giocatori, rimuovere una carta 2 qualsiasi (rimarranno 39 carte); per 6 giocatori, rimuovere tutti e quattro i 2 (rimarranno 36 carte).
-1. Il mazziere distribuisce 3 carte coperte a ciascun giocatore, che le prende in mano guardandole.
+1. Il mazziere distribuisce 3 carte coperte a ciascun giocatore, che le prende in mano e le guarda.
 1. {{< snippet "briscola" "tallone" >}}
 1. {{< snippet "preparazione" "antiorario" >}}
 
@@ -88,3 +88,4 @@ Esistono numerose varianti della Briscola.
 - {{<variante page="/giochi/briscola/chiamata">}}
 - {{<variante page="/giochi/briscola/dichiarata">}}
 - {{<variante page="/giochi/briscola/non-prendere">}}
+- {{<variante page="/giochi/briscola/marianna">}}
